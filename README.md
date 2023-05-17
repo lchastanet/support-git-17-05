@@ -2,8 +2,12 @@
 
 - Annie ":) :) :)"
 
+-killian
+
+-David "Vivement le Week-end"
+
 - Anais "J'aime les chocolatines!"
 
 - loris "It's awesome"
 
-- David "Vivement le Week-end"
+-cedric is here
