@@ -1,3 +1,3 @@
 # support-git-17-05
 
-- Claire
+- Claire "it's great!"
