@@ -1,3 +1,3 @@
 # support-git-17-05
 
-- loris
+- loris "It's awesome"
