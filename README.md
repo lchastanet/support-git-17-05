@@ -8,3 +8,4 @@
 
 - loris "It's awesome"
 
+-cedric is here
