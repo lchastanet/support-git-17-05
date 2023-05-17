@@ -1,5 +1,5 @@
 # support-git-17-05
 
--David "Vivement le Week-end"
+- loris "It's awesome"
 
-- Loris
+- David "Vivement le Week-end"
